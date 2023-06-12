@@ -27,4 +27,4 @@ All models that we made end up being 80% accurate.
 Conclusion
 
 After reviewing all of our models, we can conclude that none of the categories in our dataset were directly responsible for a no-show.
-We can confirm that within our dataset, Females and people who did receive a SMS Message accounted for most of the no-shows.
+We can also confirm that within our dataset, Females and people who did receive a SMS Message accounted for most of the no-shows.
