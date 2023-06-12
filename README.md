@@ -13,6 +13,9 @@ Goal Two
 See if any of the individual issues is a good single-issue predictor of a no-show appointment and create visualizations to show the results. Create models without the single-issue to see how it changes the accuracy of the model from goal one.
 
 Trevor- Gender and Age
+
 Scott- Scholarship and Hypertension
+
 Nick- Diabetes and Alcoholism
+
 Cam- Handicap, SMS_received, and maybe day of the week.
